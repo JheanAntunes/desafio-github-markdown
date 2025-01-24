@@ -1,3 +1,5 @@
+# Olá, Pessoal :slightly_smiling_face:
+
 <center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
 
 #### >> DESAFIO DE PROJETO <<
@@ -7,15 +9,18 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
 **Objetivos:**
 
 1. **Criar sua conta no Github:**
+
    - Essencial para alcançarmos nossos objetivos.
 
 2. **Criar um Repositório:**
+
    - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
    - Adicione o seu README.md ao criar o repositório.
    - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
    - Lembre-se: o repositório deve ser público.
 
 3. **Colaboração:**
+
    - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
    - Ambos devem fazer um clone do repositório em suas máquinas locais.
    - Realizem alterações, Commits, abra issues e pull requests.
@@ -27,7 +32,6 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
 <div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
-
 
 Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
 
